@@ -1,0 +1,35 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#heading
+{
+    font-size:15px;
+    font-weight:bold;
+    width:100%;
+    padding:5px;
+    margin-bottom:10px;
+}
+
+h2
+{
+    display:inline;
+}
+
+#button
+{
+    float:right;
+}
+
+#play
+{
+    font-size:22px;
+    margin-bottom:10px;
+}
+
+#status
+{
+    font-size:18px;
+}
